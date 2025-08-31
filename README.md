@@ -4,4 +4,4 @@ this is first demo github project.ls
 Alvin
 
 # Student
-Simon
+Simon and Glenn
